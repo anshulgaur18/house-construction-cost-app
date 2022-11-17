@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/house-construction-cost-app/static/css/main.d3179db3.css",
+    "main.js": "/house-construction-cost-app/static/js/main.0f608868.js",
+    "index.html": "/house-construction-cost-app/index.html",
+    "main.d3179db3.css.map": "/house-construction-cost-app/static/css/main.d3179db3.css.map",
+    "main.0f608868.js.map": "/house-construction-cost-app/static/js/main.0f608868.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3179db3.css",
+    "static/js/main.0f608868.js"
+  ]
+}
